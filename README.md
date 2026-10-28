@@ -2,7 +2,7 @@
 
 **A little town, built one pull request at a time.** Design a home and a neighbor; contribute one JSON file. Every house hangs a lantern on the Lantern Fork.
 
-[Visit the town](https://renanbazinin.github.io/forktown/) · [Detailed contributor guide](CONTRIBUTING.md)
+[Visit the town](https://renanbazinin.github.io/forktown/) · [Watch it live on YouTube](https://www.youtube.com/@renanbazinin/live) · [The whole guide in one picture](docs/images/contribute-infographic.webp) · [Detailed contributor guide](CONTRIBUTING.md)
 
 <img src="public/og-image.png" alt="Forktown on an autumn evening: houses around the Lantern Fork, a football match at the Meadow Ground and a concert at the Little Stage." width="800">
 
@@ -87,7 +87,7 @@ Once you’ve moved in, select your house and click **Share**. The link opens a 
 
 Forktown makes a first open-source contribution something you can visit. Each contributed house brings a neighbor, a story, and its creator’s credit into a shared pixel town.
 
-The town has a life of its own: neighbors take walks, meet at concerts, watch films, and stop by football matches. A full day and night lasts 24 real minutes, and each season about 11 hours: blossom, fireflies, turning leaves, then snow. Explore at your own pace, follow a resident, or enjoy the [live view](https://renanbazinin.github.io/forktown/).
+The town has a life of its own: neighbors take walks, meet at concerts, watch films, and stop by football matches. A full day and night lasts 24 real minutes, and each season about 11 hours: blossom, fireflies, turning leaves, then snow. Explore at your own pace, follow a resident, or watch the town [live on YouTube](https://www.youtube.com/@renanbazinin/live).
 
 Want to help beyond building a house? Pick up an open [good first issue](https://github.com/renanbazinin/forktown/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22) or one marked [help wanted](https://github.com/renanbazinin/forktown/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22), improve the guides, report a bug, or contribute to the town itself. The [project guide](docs/PROJECT_GUIDE.md) covers features, code structure, and development commands.
 
