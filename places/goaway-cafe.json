@@ -4,7 +4,7 @@
   "creator": "bunvin",
   "plot": "H2",
   "building": "cafe",
-  "color": "#BE8E68",
+  "color": "#8B4513",
   "decoration": "tree",
   "story": "We don't usually serve customers, but when we do... its horrible. \nRate us as low as possible and GoAway.",
   "design": {
@@ -12,9 +12,7 @@
     "trim": "#8B4513",
     "floors": 1,
     "roof": "gable",
-    "roofColor": "#8B4513",
     "windows": "round",
-    "windowsColor": "#3B9679",
     "garden": "vegetables",
     "feature": "balcony"
   },
@@ -38,6 +36,6 @@
     "text": "HELLO",
     "color": "#FFF4D4",
     "background": "#35554A",
-    "html": "<div style=\"background-color: #35554A; color: #FFF4D4; text-align: center\">\n  <strong style=\"font-size: 24px\">GoAway</strong>\n  <p style=\"font-size: 12px\">☕ Cafe ☕</div>"
+    "html": "<div style=\"background-color: #35554A; color: #FFF4D4; text-align: center\">\n  <strong style=\"font-size: 24px\">GoAway</strong>\n  <p style=\"font-size: 12px\">☕ Cafe ☕</div>"  
   }
 }
